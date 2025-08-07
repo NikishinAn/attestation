@@ -28,7 +28,7 @@ public class App {
                 new Product("Яйца", 120),
                 new Product("Мясо", 400),
                 new Product("Сыр", 300),
-                new Product("Мороженное",200),
+                new Product("Мороженое",200),
                 new Product("Черная икра", 5000)
         };
 
